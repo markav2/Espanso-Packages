@@ -1,0 +1,5 @@
+name: "unicode-fractions"
+title: "Unicode Fractions"
+description: This package will allow you to use unicode fractions in your typing 1//2
+version: 0.1.0
+author: Mark Vanderberg
